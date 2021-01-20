@@ -1,5 +1,5 @@
 # 🚀 iOS Developer Roadmap 
-Roadmap to becoming an iOS developer .
+Roadmap to become an iOS developer .
 
 ## ☝️ What is it?
 This is a tree-like compilation of topics highly relevant to iOS development.
@@ -8,7 +8,6 @@ This is a tree-like compilation of topics highly relevant to iOS development.
 The roadmap will be helpul for:
 
 - anyone who wants to become an iOS developer
-- iOS developers who desire to become experts
 - iOS developers who are preparing for interviews and need to brush up knowledge
 - iOS developers who need to compile own set of interview questions
 
@@ -23,7 +22,7 @@ The roadmap will be helpul for:
 Roadmap of essential topics.
 ![Header image](RoadmapTree.jpg)
 
-## 🗺 Course Dependant Learning 
+## 🗺 Courses Dependant Learning 
 If you like start learning by courses you can find a great content to learn in these Courses :
 - [Learning Basic Swift Syntax Crash Course (Devslopes) ](https://www.youtube.com/watch?v=mhE-Mp07RTo) *Note That you need to have a previous knowledge on another programming language to make sure you understand the basic concepts on programming*
 - [As a beginner : iOS & Swift - The Complete iOS App Development Bootcamp (Angela Yu) ](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
