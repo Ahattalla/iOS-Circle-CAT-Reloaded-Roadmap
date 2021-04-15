@@ -22,7 +22,7 @@ The roadmap will be helpul for:
 Roadmap of essential topics.
 ![Header image](RoadmapTree.jpg)
 
-## 🗺 Courses Dependant Learning 
+## 🗺 Courses-Dependant Learning 
 If you like start learning by courses you can find a great content to learn in these Courses :
 - [Learning Basic Swift Syntax Crash Course (Devslopes) ](https://www.youtube.com/watch?v=mhE-Mp07RTo) *Note That you need to have a previous knowledge on another programming language to make sure you understand the basic concepts on programming*
 - [As a beginner : iOS & Swift - The Complete iOS App Development Bootcamp (Angela Yu) ](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
